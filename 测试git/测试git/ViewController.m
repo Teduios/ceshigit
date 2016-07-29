@@ -20,6 +20,7 @@
     NSLog(@"version1");
     NSLog(@"version3");
     NSLog(@"test v4");
+    NSLog(@"今天一天结束了");
 }
 
 - (void)didReceiveMemoryWarning {
